@@ -8,6 +8,8 @@ The entire project is **Dockerized**, meaning you can run it on any system (Wind
 
 ## 🏗️ System Architecture & Database Structure
 
+![System Architecture Flowchart](docs/architecture_flowchart.png)
+
 **Does this repository include the database structure?**
 **Yes!** The GitHub repository includes all the database structures and sample data.
 - The `database/` directory contains `.sql` scripts (e.g., `01_tables_overview.sql`, `02_table_schema.sql`, etc.) that define the tables, relationships, and seed data.
